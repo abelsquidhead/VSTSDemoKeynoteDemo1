@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeSharing360", "BikeSharing360\BikeSharing360.csproj", "{D11816C7-A8CC-45BC-B6A4-3C8707A810AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeSharing360.Tests", "BikeSharing360.Tests\BikeSharing360.Tests.csproj", "{6A354EAE-636A-4BF7-9247-A88AD65EEDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11816C7-A8CC-45BC-B6A4-3C8707A810AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11816C7-A8CC-45BC-B6A4-3C8707A810AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11816C7-A8CC-45BC-B6A4-3C8707A810AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11816C7-A8CC-45BC-B6A4-3C8707A810AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A354EAE-636A-4BF7-9247-A88AD65EEDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A354EAE-636A-4BF7-9247-A88AD65EEDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A354EAE-636A-4BF7-9247-A88AD65EEDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A354EAE-636A-4BF7-9247-A88AD65EEDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
